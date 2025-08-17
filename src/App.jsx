@@ -218,7 +218,7 @@ function App() {
                         type="text"
                         value={editText}
                         onChange={(e) => setEditText(e.target.value)}
-                        className="px-4 py-3 border-2 rounded-lg text-base bg-white focus:outline-none focus:shadow-lg text-sm"
+                        className="px-4 py-3 border-2 rounded-lg text-sm bg-white focus:outline-none focus:shadow-lg"
                         style={{
                           borderColor: '#667eea',
                           boxShadow: '0 0 0 3px rgba(102, 126, 234, 0.1)'

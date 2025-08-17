@@ -2,6 +2,12 @@
 
 A beautiful, modern task management application built with cutting-edge web technologies. This app features a stunning glass morphism design with gradient backgrounds and smooth animations.
 
+## 📸 Preview
+
+![Task Manager App Preview](./screenshot.png)
+
+_Beautiful glass morphism design with gradient background and modern UI_
+
 ## 🚀 Features
 
 - **✨ Beautiful UI/UX**: Glass morphism design with backdrop blur effects
