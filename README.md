@@ -4,7 +4,7 @@ A beautiful, modern task management application built with cutting-edge web tech
 
 ## 📸 Preview
 
-![Task Manager App Preview](./screenshot.png)
+![Task Manager App Preview](./public/screenshot-2025-08-17-082204.png)
 
 _Beautiful glass morphism design with gradient background and modern UI_
 
